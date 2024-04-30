@@ -7,6 +7,14 @@ Creado por:
 *  **V. D. Betancourt**
 
 
+<img src="https://github.com/vbleal/Airports/blob/main/_Aero_NetIncome/Imag/DE_Aero_Income.png" width="500" height="300">
+
+<sub>Créditos: Imagen Generada con IA.</sub>
+
+
+
+
+
 <br>
 
 ---
