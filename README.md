@@ -2,9 +2,15 @@
 Airports, Operations, Passangers, Income, Expenses, Rents, Neural Networks, Lineal Regression
 
 
+
+<img src="https://github.com/vbleal/Airports/blob/main/Imag/DE_WP_Airports.png" width="500" height="300">
+
+<sub>Créditos: Generado con IA.</sub>
+
+
 <br>
 
-## Descripción
+## 📃 Descripción
 
 
 <br>
