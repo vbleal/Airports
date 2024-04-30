@@ -43,7 +43,10 @@ Airports, Operations, Passangers, Income, Expenses, Rents, Neural Networks, Line
 
 <br>   
 
-[Locales y Rentas](https://github.com/vbleal/Airports/tree/main/_Aero_Rent)
+[Repositorio: Locales y Rentas](https://github.com/vbleal/Airports/tree/main/_Aero_Rent)
+
+
+[Reporte: Locales y Rentas](https://github.com/vbleal/Airports/blob/main/_Aero_Rent/Report/GH_Aeropuertos%20-%20Locales%20y%20Rentas.pdf)
 
 
 </details>
