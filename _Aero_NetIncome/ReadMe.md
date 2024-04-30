@@ -4,7 +4,7 @@ Ingresos, Gastos, Aeropuertos, Combustibles, Pronóstico
 
 Creado por:
 
-*  V. D. Betancourt
+*  **V. D. Betancourt**
 
 
 <br>
