@@ -24,6 +24,7 @@ Airports, Operations, Passangers, Income, Expenses, Rents, Neural Networks, Line
 
 <br>   
 
+[Operaciones y Pasajeros](https://github.com/vbleal/Airports/tree/main/_Aero_Operations)
 
 </details>
 
@@ -41,6 +42,8 @@ Airports, Operations, Passangers, Income, Expenses, Rents, Neural Networks, Line
 <summary>🔍 Expandir </summary>
 
 <br>   
+
+[Locales y Rentas](https://github.com/vbleal/Airports/tree/main/_Aero_Rent)
 
 
 </details>
@@ -61,6 +64,7 @@ Airports, Operations, Passangers, Income, Expenses, Rents, Neural Networks, Line
 
 <br>   
 
+[Ingresos y Gastos](https://github.com/vbleal/Airports/tree/main/_Aero_NetIncome)
 
 </details>
 
