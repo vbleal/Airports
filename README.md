@@ -17,7 +17,7 @@ Airports, Operations, Passangers, Income, Expenses, Rents, Neural Networks, Line
 
 ---
 
-## Predicción de Operaciones y Pasajeros
+## Predicción de Operaciones y Pasajeros ✈️🧳🔮
 
 <details>
 <summary>🔍 Expandir </summary>
@@ -36,7 +36,7 @@ Airports, Operations, Passangers, Income, Expenses, Rents, Neural Networks, Line
 
 ---
 
-## Gestión de Locales y Rentas
+## Gestión de Locales y Rentas 🏢💰📊
 
 <details>
 <summary>🔍 Expandir </summary>
@@ -57,7 +57,7 @@ Airports, Operations, Passangers, Income, Expenses, Rents, Neural Networks, Line
 
 ---
 
-## Predicción de Ingresos y Gastos
+## Predicción de Ingresos y Gastos 💵🔮
 
 <details>
 <summary>🔍 Expandir </summary>
