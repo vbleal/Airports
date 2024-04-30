@@ -5,7 +5,7 @@ Airports, Operations, Passangers, Income, Expenses, Rents, Neural Networks, Line
 
 <img src="https://github.com/vbleal/Airports/blob/main/Imag/DE_WP_Airports.png" width="500" height="300">
 
-<sub>Créditos: Generado con IA.</sub>
+<sub>Créditos: Imagen Generada con IA.</sub>
 
 
 <br>
