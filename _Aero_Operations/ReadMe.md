@@ -1,6 +1,5 @@
 # Aeropuertos - Operaciones y Pasajeros
 
-Operaciones Comerciales, Pasajeros Comerciales
 
 
 Creado por:
