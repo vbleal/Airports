@@ -47,6 +47,10 @@ Creado por:
 <br>
 
 
+[Modelo VBA-Excel](https://github.com/vbleal/Airports/blob/main/_Aero_NetIncome/Report/Proyecciones%20Ingresos%20y%20Gastos%20para%20Aeropuertos%20y%20Combustibles.pdf)
+
+[Modelo para Generar Datos Sintéticos de Ingresos y Gastos con Python]()
+
   
 </details>
 
@@ -86,6 +90,10 @@ Creado por:
 
 <br>
 
+[Modelo VBA-Excel](https://github.com/vbleal/Airports/blob/main/_Aero_NetIncome/Report/Proyecciones%20Ingresos%20y%20Gastos%20para%20Aeropuertos%20y%20Combustibles.pdf)
+
+
+[Modelo para Generar Datos Sintéticos de Ingresos y Gastos con Python]()
 
   
 </details>
