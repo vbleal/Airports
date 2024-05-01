@@ -105,6 +105,10 @@ Se creará un dataset llamado **`datos_aeropuertos.csv`**, que contendrá **"dat
 
 <br>
 
+🔮 [Modelo Python para Datos Sintéticos y Predicciones de Operaciones y Pasajeros en Aeropuertos](https://github.com/vbleal/Airports/blob/main/_Aero_Operations/Report/GH_Aeropuertos%20-%20Operaciones%20y%20Pasajeros.pdf)
+
+<br>
+
 Resumen del Modelo de Redes Neuronales (Neural Networks) empleado para la predicción del dataset de Operaciones y Pasajeros:
 
 <img src="https://github.com/vbleal/Airports/blob/main/_Aero_Operations/Imag/Modelo_Proy_Operaciones.png" width="500" height="300">
@@ -216,7 +220,7 @@ Resumen del Modelo de Redes Neuronales (Neural Networks) empleado para la predic
 
 <br>
 
-[Reporte con Código (Python): Operaciones y Pasajeros](https://github.com/vbleal/Airports/blob/main/_Aero_Operations/Report/GH_Aeropuertos%20-%20Operaciones%20y%20Pasajeros.pdf)
+🔮 [Modelo Python para Datos Sintéticos y Predicciones de Operaciones y Pasajeros en Aeropuertos](https://github.com/vbleal/Airports/blob/main/_Aero_Operations/Report/GH_Aeropuertos%20-%20Operaciones%20y%20Pasajeros.pdf)
 
   
 </details>
