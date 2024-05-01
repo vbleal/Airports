@@ -30,7 +30,7 @@ Los datos utilizados han sido generados sintéticamente, por lo que no se hace r
 
 ---
 
-## Predicción de Operaciones y Pasajeros ✈️🧳🔮
+## Aeropuertos - Operaciones y Pasajeros ✈️🧳🔮
 
 <details>
 <summary>🔍 Expandir </summary>
@@ -40,10 +40,8 @@ Los datos utilizados han sido generados sintéticamente, por lo que no se hace r
 [Repositorio: Operaciones y Pasajeros](https://github.com/vbleal/Airports/tree/main/_Aero_Operations)
 
 
-[Resultados: Operaciones y Pasajeros](https://github.com/vbleal/Airports/tree/main/_Aero_Operations#-resultados)
+[Reporte con Código (Python): Operaciones y Pasajeros](https://github.com/vbleal/Airports/blob/main/_Aero_Operations/Report/GH_Aeropuertos%20-%20Operaciones%20y%20Pasajeros.pdf)
 
-
-[Reporte: Operaciones y Pasajeros](https://github.com/vbleal/Airports/blob/main/_Aero_Operations/Report/GH_Aeropuertos%20-%20Operaciones%20y%20Pasajeros.pdf)
 
 </details>
 
@@ -55,7 +53,7 @@ Los datos utilizados han sido generados sintéticamente, por lo que no se hace r
 
 ---
 
-## Gestión de Locales y Rentas 🏢💰📊
+## Aeropuertos - Locales y Rentas 🏢💰📊
 
 <details>
 <summary>🔍 Expandir </summary>
@@ -80,7 +78,7 @@ Los datos utilizados han sido generados sintéticamente, por lo que no se hace r
 
 ---
 
-## Predicción de Ingresos y Gastos 💵🔮
+## Aeropuertos y Combustibles: Ingresos y Gastos 💵🔮
 
 <details>
 <summary>🔍 Expandir </summary>
