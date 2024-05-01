@@ -89,6 +89,7 @@ Los datos utilizados han sido generados *sintéticamente*, por lo que no se hace
 
 📂 [Repositorio: Ingresos y Gastos](https://github.com/vbleal/Airports/tree/main/_Aero_NetIncome)
 
+<br>
 
 🔮 [Modelo VBA-Excel de Predicciones de Ingresos y Gastos para Aeropuertos y Combustibles](https://github.com/vbleal/Airports/blob/main/_Aero_NetIncome/Report/Proyecciones%20Ingresos%20y%20Gastos%20para%20Aeropuertos%20y%20Combustibles.pdf)
 
