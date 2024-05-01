@@ -44,6 +44,31 @@ Creado por:
 
 <br>
 
+Se creará un dataset llamado **`datos_aeropuertos.csv`**, que contendrá **"datos sintéticos"** (generados aleatoriamente) con los siguientes 11 campos (columnas):
+
+* **`'fecha'`**: Es la fecha de cada registro (fila) que comprenderá el rango del **`'2022-03-31'`** al **`'2024-03-31'`**, y siempre corresponderán a las fechas del último día del mes.
+
+* **`'nombre_aeropuerto'`**: Se refiere al nombre del aeropuerto, el cual, para simplificar este análisis, corresponderán a 12 nombres de la forma: **`'Aeropuerto_1'`**, **`'Aeropuerto_2'`**, ..., **`'Aeopuerto_12'`**.
+
+* **`'tipo_aeropuerto'`**: Se considerarán solamente aeropuertos del tipo **`'Internacional'`**.
+
+* **`'numero_aerolineas'`**: Será un número aleatorio entre 5 y 20 aerolíneas.
+
+* '**`destinos_nacionales'`**: Será un número aleatorio entre 5 y 30 destinos nacionales.
+
+* **`'destinos_internacionales'`**: Será un número aleatorio entre 1 y 10 destinos internacionales.
+
+* **`'destinos_total'`**: Es la suma de '**`destinos_nacionales'`** y **`'destinos_internacionales'`**.
+
+* **`'Operaciones_comercial'`**: Será un número aleatorio entre 1,000 y 50,000.
+
+* **`'Operaciones_general'`**: Será un número aleatorio entre 100 y 5,000.
+
+* **`'pasajeros_comercial'`**: Será un número aleatorio entre 100,000 y 5,000,000.
+
+* **`'pasajeros_general'`**: Será un número aleatorio entre 1000 y 15,000.
+
+
 
   
 </details>
