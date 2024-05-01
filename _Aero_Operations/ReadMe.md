@@ -105,6 +105,9 @@ Se creará un dataset llamado **`datos_aeropuertos.csv`**, que contendrá **"dat
 
 <br>
 
+Resumen del Modelo de Redes Neuronales (Neural Networks) empleado para la predicción del dataset de Operaciones y Pasajeros:
+
+<img src="https://github.com/vbleal/Airports/blob/main/_Aero_Operations/Imag/Modelo_Proy_Operaciones.png" width="500" height="300">
 
   
 </details>
