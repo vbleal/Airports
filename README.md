@@ -37,10 +37,11 @@ Los datos utilizados han sido generados sintéticamente, por lo que no se hace r
 
 <br>   
 
-[Repositorio: Operaciones y Pasajeros](https://github.com/vbleal/Airports/tree/main/_Aero_Operations)
+📂 [Repositorio: Operaciones y Pasajeros](https://github.com/vbleal/Airports/tree/main/_Aero_Operations)
 
+<br>  
 
-[Reporte con Código (Python): Operaciones y Pasajeros](https://github.com/vbleal/Airports/blob/main/_Aero_Operations/Report/GH_Aeropuertos%20-%20Operaciones%20y%20Pasajeros.pdf)
+🔮 [Modelo Python para Datos Sintéticos y Predicciones de Operaciones y Pasajeros en Aeropuertos](https://github.com/vbleal/Airports/blob/main/_Aero_Operations/Report/GH_Aeropuertos%20-%20Operaciones%20y%20Pasajeros.pdf)
 
 
 </details>
@@ -60,10 +61,11 @@ Los datos utilizados han sido generados sintéticamente, por lo que no se hace r
 
 <br>   
 
-[Repositorio: Locales y Rentas](https://github.com/vbleal/Airports/tree/main/_Aero_Rent)
+📂 [Repositorio: Locales y Rentas](https://github.com/vbleal/Airports/tree/main/_Aero_Rent)
 
+<br> 
 
-[Reporte con Código (Python)](https://github.com/vbleal/Airports/blob/main/_Aero_Rent/Report/GH_Aeropuertos%20-%20Locales%20y%20Rentas.pdf)
+🐍 [Modelo Python para Datos Sintéticos y Análisis de Locales y Rentas en Aeropuertos](https://github.com/vbleal/Airports/blob/main/_Aero_Rent/Report/GH_Aeropuertos%20-%20Locales%20y%20Rentas.pdf)
 
 
 
@@ -85,13 +87,14 @@ Los datos utilizados han sido generados sintéticamente, por lo que no se hace r
 
 <br>   
 
-[Repositorio: Ingresos y Gastos](https://github.com/vbleal/Airports/tree/main/_Aero_NetIncome)
+📂 [Repositorio: Ingresos y Gastos](https://github.com/vbleal/Airports/tree/main/_Aero_NetIncome)
 
 
-[Modelo VBA-Excel](https://github.com/vbleal/Airports/blob/main/_Aero_NetIncome/Report/Proyecciones%20Ingresos%20y%20Gastos%20para%20Aeropuertos%20y%20Combustibles.pdf)
+🔮 [Modelo VBA-Excel de Predicciones de Ingresos y Gastos para Aeropuertos y Combustibles](https://github.com/vbleal/Airports/blob/main/_Aero_NetIncome/Report/Proyecciones%20Ingresos%20y%20Gastos%20para%20Aeropuertos%20y%20Combustibles.pdf)
 
+<br>
 
-[Modelo para Generar Datos Sintéticos de Ingresos y Gastos con Python](https://github.com/vbleal/Airports/blob/main/_Aero_NetIncome/Report/Datos%20Sint%C3%A9ticos%20-%20Aeropuertos%20Combustibles%20-%20Ingresos%20Gastos.pdf)
+🐍 [Modelo Python para Generar Datos Sintéticos de Ingresos y Gastos para Aeropuertos y Combustibles](https://github.com/vbleal/Airports/blob/main/_Aero_NetIncome/Report/Aeropuertos%20y%20Combustibles%20-%20Ingresos%20y%20Gastos.pdf)
 
 
 
