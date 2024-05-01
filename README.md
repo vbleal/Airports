@@ -39,6 +39,10 @@ Los datos utilizados han sido generados sintéticamente, por lo que no se hace r
 
 [Repositorio: Operaciones y Pasajeros](https://github.com/vbleal/Airports/tree/main/_Aero_Operations)
 
+
+[Resultados: Operaciones y Pasajeros](https://github.com/vbleal/Airports/tree/main/_Aero_Operations#-resultados)
+
+
 [Reporte: Operaciones y Pasajeros](https://github.com/vbleal/Airports/blob/main/_Aero_Operations/Report/GH_Aeropuertos%20-%20Operaciones%20y%20Pasajeros.pdf)
 
 </details>
@@ -59,6 +63,9 @@ Los datos utilizados han sido generados sintéticamente, por lo que no se hace r
 <br>   
 
 [Repositorio: Locales y Rentas](https://github.com/vbleal/Airports/tree/main/_Aero_Rent)
+
+
+[Resultados: Locales y Rentas](https://github.com/vbleal/Airports/tree/main/_Aero_Rent#-resultados)
 
 
 [Reporte: Locales y Rentas](https://github.com/vbleal/Airports/blob/main/_Aero_Rent/Report/GH_Aeropuertos%20-%20Locales%20y%20Rentas.pdf)
