@@ -18,13 +18,30 @@ Creado por:
 
 ---
 
-## 📃 Descripción
+## 📃 Introducción
 
 
 <details>
 <summary>Expandir </summary>
 
 <br>
+
+
+### 🎯 Objetivo
+
+
+El presente proyecto tiene por objetivo analizar los **datos operativos** presentados en distintos aeropuertos, lo cual incluye operaciones comerciales y generales, así como el flujo de pasajeros, el número de aerolíneas, y los destinos nacionales e internacionales. 
+
+Adicionalmente, se propone un modelo para obtener **predicciones** sobre el comportamiento de esta operativa. Dicho modelo está basado en **Redes Neuronales (Neural Networks)**.
+
+
+<br>
+
+### 📄 Descripción
+
+El análisis de la operativa en distintos aeropuertos depende de la información disponible y la calidad de la misma.
+
+En ese proyecto se han creado **datos sintéticos** que constan de **11 variables (columnas)**, para un período parametrizable de fechas mensuales.
 
 
   
