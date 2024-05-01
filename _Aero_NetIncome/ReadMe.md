@@ -111,12 +111,12 @@ Los **datos sintéticos** generados constan de **15 variables (columnas)**, que 
 <br>
 
 
-[Documentación: Modelo VBA-Excel para Predicciones](https://github.com/vbleal/Airports/blob/main/_Aero_NetIncome/Report/Proyecciones%20Ingresos%20y%20Gastos%20para%20Aeropuertos%20y%20Combustibles.pdf)
-
+🔮 [Modelo VBA-Excel de Predicciones de Ingresos y Gastos para Aeropuertos y Combustibles](https://github.com/vbleal/Airports/blob/main/_Aero_NetIncome/Report/Proyecciones%20Ingresos%20y%20Gastos%20para%20Aeropuertos%20y%20Combustibles.pdf)
 
 <br>
 
-[Modelo para Generar Datos Sintéticos de Ingresos y Gastos con Python](https://github.com/vbleal/Airports/blob/main/_Aero_NetIncome/Report/Aeropuertos%20y%20Combustibles%20-%20Ingresos%20y%20Gastos.pdf)
+🐍 [Modelo Python para Generar Datos Sintéticos de Ingresos y Gastos para Aeropuertos y Combustibles](https://github.com/vbleal/Airports/blob/main/_Aero_NetIncome/Report/Aeropuertos%20y%20Combustibles%20-%20Ingresos%20y%20Gastos.pdf)
+
 
 
   
@@ -156,6 +156,13 @@ Los **datos sintéticos** generados constan de **15 variables (columnas)**, que 
 <img src="https://github.com/vbleal/Airports/blob/main/_Aero_NetIncome/Imag/Aeropuertos_Ingresos_Outliers.png" width="900" height="700">
 
 
+### 🔮 Proyecciones
+
+<img src="https://github.com/vbleal/Airports/blob/main/_Aero_NetIncome/Imag/Aeropuertos_Ingresos_Proyecciones_DatosSintéticos.png" width="1700" height="300">
+
+
+
+
 <br>
 <br>
 
@@ -168,6 +175,16 @@ Los **datos sintéticos** generados constan de **15 variables (columnas)**, que 
 #### Boxplots y Outliers
 
 <img src="https://github.com/vbleal/Airports/blob/main/_Aero_NetIncome/Imag/Aeropuertos_Gastos_Outliers.png" width="900" height="700">
+
+
+### 🔮 Proyecciones
+
+<img src="https://github.com/vbleal/Airports/blob/main/_Aero_NetIncome/Imag/Aeropuertos_Gastos_Proyecciones_DatosSintéticos.png" width="1700" height="300">
+
+
+
+
+
 
 </details>
 
@@ -194,6 +211,11 @@ Los **datos sintéticos** generados constan de **15 variables (columnas)**, que 
 <img src="https://github.com/vbleal/Airports/blob/main/_Aero_NetIncome/Imag/Combustibles_Ingresos_Outliers.png" width="900" height="700">
 
 
+### 🔮 Proyecciones
+
+<img src="https://github.com/vbleal/Airports/blob/main/_Aero_NetIncome/Imag/Combustibles_Ingresos_Proyecciones_DatosSintéticos.png" width="1700" height="200">
+
+
 
 
 <br>
@@ -208,6 +230,12 @@ Los **datos sintéticos** generados constan de **15 variables (columnas)**, que 
 #### Boxplots y Outliers
 
 <img src="https://github.com/vbleal/Airports/blob/main/_Aero_NetIncome/Imag/Combustibles_Gastos_Outliers.png" width="900" height="700">
+
+
+### 🔮 Proyecciones
+
+<img src="https://github.com/vbleal/Airports/blob/main/_Aero_NetIncome/Imag/Combustibles_Gastos_Proyecciones_DatosSintéticos.png" width="1700" height="200">
+
 
 
 
@@ -233,11 +261,11 @@ Los **datos sintéticos** generados constan de **15 variables (columnas)**, que 
 
 <br>
 
-[Modelo VBA-Excel](https://github.com/vbleal/Airports/blob/main/_Aero_NetIncome/Report/Proyecciones%20Ingresos%20y%20Gastos%20para%20Aeropuertos%20y%20Combustibles.pdf)
+🔮 [Modelo VBA-Excel de Predicciones de Ingresos y Gastos para Aeropuertos y Combustibles](https://github.com/vbleal/Airports/blob/main/_Aero_NetIncome/Report/Proyecciones%20Ingresos%20y%20Gastos%20para%20Aeropuertos%20y%20Combustibles.pdf)
 
 <br>
 
-[Modelo para Generar Datos Sintéticos de Ingresos y Gastos con Python](https://github.com/vbleal/Airports/blob/main/_Aero_NetIncome/Report/Aeropuertos%20y%20Combustibles%20-%20Ingresos%20y%20Gastos.pdf)
+🐍 [Modelo Python para Generar Datos Sintéticos de Ingresos y Gastos para Aeropuertos y Combustibles](https://github.com/vbleal/Airports/blob/main/_Aero_NetIncome/Report/Aeropuertos%20y%20Combustibles%20-%20Ingresos%20y%20Gastos.pdf)
 
   
 </details>
