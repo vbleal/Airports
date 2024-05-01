@@ -230,7 +230,7 @@ Sólo se presenta un **Análisis Exploratorio de Datos (EDA)**, tanto a nivel me
 
 <br>
 
-[Reporte con Código (Python)](https://github.com/vbleal/Airports/blob/main/_Aero_Rent/Report/GH_Aeropuertos%20-%20Locales%20y%20Rentas.pdf)
+🐍 [Modelo Python para Datos Sintéticos y Análisis de Locales y Rentas en Aeropuertos](https://github.com/vbleal/Airports/blob/main/_Aero_Rent/Report/GH_Aeropuertos%20-%20Locales%20y%20Rentas.pdf)
   
 </details>
 
