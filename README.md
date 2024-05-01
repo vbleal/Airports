@@ -65,10 +65,8 @@ Los datos utilizados han sido generados sintéticamente, por lo que no se hace r
 [Repositorio: Locales y Rentas](https://github.com/vbleal/Airports/tree/main/_Aero_Rent)
 
 
-[Resultados: Locales y Rentas](https://github.com/vbleal/Airports/tree/main/_Aero_Rent#-resultados)
+[Reporte con Código (Python)](https://github.com/vbleal/Airports/blob/main/_Aero_Rent/Report/GH_Aeropuertos%20-%20Locales%20y%20Rentas.pdf)
 
-
-[Reporte: Locales y Rentas](https://github.com/vbleal/Airports/blob/main/_Aero_Rent/Report/GH_Aeropuertos%20-%20Locales%20y%20Rentas.pdf)
 
 
 </details>
