@@ -23,7 +23,9 @@ Creado por:
 
 <br>
 
-### Objetivo
+### 🎯 Objetivo
+
+
 
 El objetivo del presente proyecto consiste en proponer un panorama general para la gestión de las **rentas de locales** en distintos aeropuertos. El análisis estará enfocado en:
 
@@ -40,7 +42,7 @@ Para ello, se ha creado un dataset con **datos sintéticos**. Sin embargo, puede
 
 <br>
 
-### Descripción
+### 📄 Descripción
 
 El análisis de la renta de locales en distintos aeropuertos depende totalmente de la información disponible. 
 
