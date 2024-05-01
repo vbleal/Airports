@@ -83,6 +83,74 @@ Creado por:
 <br>
 
 
+* **Operaciones Comerciales por Mees**
+
+<img src="https://github.com/vbleal/Airports/blob/main/_Aero_Operations/Imag/Operaciones_Comerciales_Subplots_Meses.png" width="700" height="500">
+
+<br>
+<br>
+
+
+
+
+
+
+* **Operaciones Comerciales Outliers**
+
+<img src="https://github.com/vbleal/Airports/blob/main/_Aero_Operations/Imag/Operaciones_Comerciales_Outliers.png" width="700" height="500">
+
+<br>
+<br>
+
+
+
+
+* **Operaciones Comerciales Tendencia**
+
+<img src="https://github.com/vbleal/Airports/blob/main/_Aero_Operations/Imag/Operaciones_Comerciales_Tendencia.png" width="700" height="500">
+
+<br>
+<br>
+
+
+
+
+
+* **Pasajeros Comerciales por Mes**
+
+<img src="https://github.com/vbleal/Airports/blob/main/_Aero_Operations/Imag/Pasajeros_Comerciales_Subplots_Meses.png" width="700" height="500">
+
+<br>
+<br>
+
+
+
+
+
+
+* **Pasajeros Comerciales Tendencia**
+
+<img src="https://github.com/vbleal/Airports/blob/main/_Aero_Operations/Imag/Pasajeros_Comerciales_Tendencia.png" width="700" height="500">
+
+<br>
+<br>
+
+
+
+
+
+
+
+* **Pronóstico Operaciones Comerciales**
+
+<img src="https://github.com/vbleal/Airports/blob/main/_Aero_Operations/Imag/Forecast_Operaciones_Comerciales.png" width="700" height="500">
+
+
+
+
+
+
+
   
 </details>
 
