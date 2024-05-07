@@ -3,9 +3,9 @@ Airports, Operations, Passangers, Income, Expenses, Rents, Neural Networks, Line
 
 
 
-<img src="https://github.com/vbleal/Airports/blob/main/Imag/DE_WP_Airports.png" width="500" height="300">
+<img src="https://github.com/vbleal/Airports/blob/main/Imag/Ban_Aeropuertos.gif" width="1000" height="300">
 
-<sub>Créditos: Imagen Generada con IA.</sub>
+<sub>Créditos: Basado en Diseño Lynic.</sub>
 
 
 <br>
@@ -16,11 +16,11 @@ Airports, Operations, Passangers, Income, Expenses, Rents, Neural Networks, Line
 
 El presente proyecto se enfoca en 3 aspectos dentro de la gestión de Aeropuertos:
 
-1. Operaciones y Pasajeros (Aerolíneas, Destinos, Operaciones Comerciales)
-2. Locales y Rentas
-3. Ingresos y Gastos por Aeropuertos y Combustibles
+1. **Operaciones y Pasajeros** (Aerolíneas, Destinos, Operaciones Comerciales)
+2. **Locales y Rentas** en Aeropuertos 
+3. **Ingresos y Gastos** de Aeropuertos y Combustibles
 
-Los datos utilizados han sido generados *sintéticamente*, por lo que no se hace referencia a ningún aeropuerto en particular de ningún país o región. Mismo caso para los nombres de las Empresas citadas que son, en todo momento, ficticias.
+Los datos utilizados **datos sintéticos**, por lo que no se hace referencia a ningún aeropuerto en particular de ningún país o región. Mismo caso para los nombres de las Empresas citadas que son, en todo momento, ficticias.
 
 
 
