@@ -220,7 +220,7 @@ Resumen del Modelo de Redes Neuronales (Neural Networks) empleado para la predic
 
 <br>
 
-🔮 [Modelo Python para Datos Sintéticos y Predicciones de Operaciones y Pasajeros en Aeropuertos](https://github.com/vbleal/Airports/blob/main/_Aero_Operations/Report/GH_Aeropuertos%20-%20Operaciones%20y%20Pasajeros.pdf)
+🔮 [Modelo Python para Datos Sintéticos y Predicciones de Operaciones y Pasajeros en Aeropuertos](https://github.com/vbleal/Airports/blob/main/_Aero_Operations/Report/Aeropuertos%20-%20Operaciones%20y%20Pasajeros.pdf)
 
   
 </details>
