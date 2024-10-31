@@ -20,7 +20,7 @@ El presente proyecto se enfoca en 3 aspectos dentro de la gestión de Aeropuerto
 2. **Locales y Rentas** en Aeropuertos 
 3. **Ingresos y Gastos** de Aeropuertos y Combustibles
 
-Los datos utilizados **datos sintéticos**, por lo que no se hace referencia a ningún aeropuerto en particular de ningún país o región. Mismo caso para los nombres de las Empresas citadas que son, en todo momento, ficticias.
+Los datos utilizados son **datos sintéticos**, por lo que no se hace referencia a ningún aeropuerto en particular de ningún país o región. Mismo caso para los nombres de las Empresas citadas que son, en todo momento, ficticias.
 
 
 
